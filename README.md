@@ -1,14 +1,12 @@
-# ableton-tidal-sync
-
+## ableton-tidal-sync
 moxus x GRAIN noir
-
 live coding audio visual system
 
 	
-NAME:
+# NAME:
 moxus x GRAIN noir
 
-DEV:
+# DEV:
 Ableton
 Ableton Link
 TidalCycles
@@ -30,12 +28,16 @@ ofxOsc
 ofxPostProcessing
 ofxXmlSettings
 
-IDEA:
+# IDEA:
 
+- audio:
 pattern 1: Tidal trigger Ableton via MIDI
 patter 2: Ableton send audio to Tidal audioIn
 
-LINKS:
+
+
+
+# LINKS:
 https://ableton.github.io/link/
 http://new-supercollider-mailing-lists-forums-use-these.2681727.n2.nabble.com/TempoClock-with-Ableton-Link-td7627914.html
 
